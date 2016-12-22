@@ -1,2 +1,2 @@
 # dbit-web-portal
-This repository will have project related to training
+This repository will have dbit web project related to training
